@@ -1,88 +1,40 @@
-# (SCTP) Advanced Professional Certificate in Data Science and AI - Technical Assessment
+# NTU 5M Data Entry Test – Submission by Farida Charania
 
-## Brief
+This repository contains my completed solutions for the **NTU Advanced Professional Certificate in Data Science & AI** entry test.
 
-In this assessment, you will be given references for self study before making an attempt to 7 coding practices. To download this folder, you can clone it to your GitHub account. See below for instructions.
+## 🧠 About Me
 
-![Screenshot](/assets/screenshot-code.png)
+I am a Singaporean entrepreneur with over 20 years of international leadership experience across banking, executive search, and AI-enabled workforce solutions. I took this challenge as a learning opportunity and completed it despite not coming from a coding background. All solutions were self-taught and developed using Python and tested on Google Colab.
 
-Click on the green button with `Code` and choose `Download ZIP`. The entire assessment should not take you more than **2 hours**.
+## ✅ Submission Summary
 
-## Expected Audience
+Each task is located in the `/src/` directory and corresponds to the required assessment questions. All functions and classes are written in Python and include basic validation and test cases.
 
-- Individuals looking to upgrade their skills or make a career switch in the data industry. Potential roles include:
-  - Data Analyst
-  - Data Scientist
-  - Data Engineer
-  - ML Engineer
-  - AI Engineer
-- Those with a background in IT, Engineering, or a related field who are interested in data-focused roles.
-- Full-time professionals seeking to upskill within the tech industry.
+| File      | Task Description                                 |
+|-----------|--------------------------------------------------|
+| `q1.py`   | Swap two numeric values                          |
+| `q2.py`   | Find and replace values in a list                |
+| `q3.py`   | Add a new key-value pair to a dictionary         |
+| `q4.py`   | Count the number of words in a sentence          |
+| `q5.py`   | Filter even numbers from a list                  |
+| `q6.py`   | Extract keys with numeric values from a dictionary |
+| `q7.py`   | Define a `Car` class and return a formatted string |
 
-## References
+## 🧪 How to Run
 
-These references should take you under 40 minutes to complete.
+You can copy each `.py` file into [Google Colab](https://colab.research.google.com/) or run them locally using any Python IDE.
 
-Reference with code practice:
+Each file contains:
+- A function or class as per the task
+- Input validation
+- A test case with both valid and invalid inputs for clarity
 
-- [Variables](https://www.w3schools.com/python/gloss_python_variable_names.asp) (1 minute)
-- [Data Types](https://www.w3schools.com/python/python_datatypes.asp) (1 minute)
-- [Operators](https://www.w3schools.com/python/python_operators.asp) (3 minutes)
-- [Conditions](https://www.w3schools.com/python/python_conditions.asp) (3 minutes)
-- [Lists](https://www.w3schools.com/python/python_lists.asp) (5 minutes)
-- [Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp) (5 minutes)
-- [For Loop](https://www.w3schools.com/python/python_for_loops.asp) (3 minutes)
-- [While Loop](https://www.w3schools.com/python/python_while_loops.asp) (3 minutes)
-- [Functions](https://www.w3schools.com/python/python_functions.asp) (5 minutes)
-- [Objects / Classes](https://www.w3schools.com/python/python_classes.asp) (5 minutes)
-- [Python Scope](https://www.w3schools.com/python/python_scope.asp) (3 minutes)
-- [Python Modules](https://www.w3schools.com/python/python_modules.asp) (3 minutes)
+## 🙏 Note of Gratitude
 
-These videos can be helpful in learning Python
+This challenge helped me bridge theory and practice in coding. I appreciate the opportunity to be considered for this course and look forward to deepening my data science capabilities further.
 
-- [Python with Mosh](https://youtu.be/kqtD5dpn9C8)
-- [Python - Traversy Media](https://youtu.be/JJmcL1N2KQs)
+---
 
-## Problems
-
-Please attempt to solve the problems described in the following `.py` files:
-
-- [Question 1](./src/q1.py)
-- [Question 2](./src/q2.py)
-- [Question 3](./src/q3.py)
-- [Question 4](./src/q4.py)
-- [Question 5](./src/q5.py)
-- [Question 6](./src/q6.py)
-- [Question 7](./src/q7.py)
-
-Your code should be easily readable and well-documented with appropriate comments
-to explain how it works. 
-
-### 📝 Use of Generative AI tools ###
-
-Although AI assistance (e.g. ChatGPT) is allowed for coding assignments, you are solely 
-responsible for understanding all submitted code. You should being able to explain your
-code submission and you will be held accountable for the code's functionality and logic.
-
-## Submission Instructions
-
-⚠️ You must have a GitHub account to submit your coding assessment ⚠️
-
-Follow these steps :
-
-- Create a GitHub account (if you don’t already have one) at https://github.com/
-- Create a new repository on GitHub and name it `data-science-entry-test`.
-- Upload your solutions as `*.py` files in the repository.
-- Each question should be in a separate file (`q1.py`, `q2.py`, `q3.py`, `q4.py`, `q5.py`, `q6.py`, `q7.py`).
-- You may also upload them as Jupyter or Collab notebooks.
-- Submit the link to your GitHub repository on the NTU Survey Portal.
-
-If you're unfamiliar with GitHub, start with these beginner-friendly resources:
-
-- [W3Schools Git Tutorial](https://www.w3schools.com/git/)
-- [GitHub Docs: Getting Started](https://docs.github.com/en/get-started)
-
-
-> The ability to self-learn is an important aspect of the SCTP course.
-> Please go through the resources provided and familiarise yourself with the requirements to create the GitHub link for submission.
-
+**GitHub Repository Owner:** Farida Charania  
+**Website:** [www.career-zoom.com](https://www.career-zoom.com)  
+**Email:** farida@career-zoom.com  
